@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Karthikraghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-raghavan&theme=highcontrast&show_icons=true&count_private=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-raghavan&layout=compact) <br>
+![](https://komarev.com/ghpvc/?username=Karthik-raghavan) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karthik-raghavan&theme=neon-palenight&hide_border=true)
