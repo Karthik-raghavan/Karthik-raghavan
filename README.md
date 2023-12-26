@@ -47,6 +47,8 @@
     <img src="Icons/icons8-docker.svg" width="50" height="50">
     <img src="Icons/machine-learning.jpg" width="50" height="50">
     <img src="Icons/artificial-intelligence.png" width="50" height="50">
+    <img src="Icons/icons8-rstudio.svg" width="50" height="50">
+    <img src="Icons/icons8-r-project.svg" width="50" height="50">
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-raghavan&show_icons=true&locale=en&theme=tokyonight" alt="Karthik-raghavan" /></p>
