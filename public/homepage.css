@@ -1,0 +1,20 @@
+body {
+    color: #0F1035;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Slabo 27px', serif;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: #DCF2F1;
+}
+.topnav-right {
+    float: right;
+}
+
+.connectlinks {
+    text-align: center;
+}
+
+.Tech-Stack {
+    width: 20;
+    height: 20;
+}
